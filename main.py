@@ -16,21 +16,10 @@ def ReadAnime(Identificador):
             return anime
     #return (por si no se encuentra un anime)
     return "No se encontro el Anime"
-"""
-@app.route("/products/product")
-def getProduct():
-    name = request.args.get("name", "No hay producto.")
-    product_Found = [product for product in products if product['name'] == name]
-    if(len(product_Found)>0):
-        return jsonify(product_Found[0])
-    else:
-        return jsonify({"message": "Producto no encontrado"})
-
-"""
 
 #METODO POST (crear animes)
 @app.route("/anime", methods=['POST'])
-def agregarProducto():
+def CreateAnime():
     #New_product = request.json
     NuevoAnime = {
         "id": request.json['id'],
@@ -50,7 +39,7 @@ def agregarProducto():
 #METODO PUT (actualizar productos)
 
 @app.route("/anime/<int:Identificador>", methods=['PUT'])
-def EditProduct(Identificador):
+def EditAnime(Identificador):
     for anime in BaseDeDatosAnime['anime']:
         if anime['id'] == Identificador:
             anime['titulo'] = request.json['id']
@@ -68,7 +57,7 @@ def EditProduct(Identificador):
 #METODO PATCH (actualizar una parde del anime)
 
 @app.route("/anime/<int:Identificador>", methods=['PATCH'])
-def EdiParAnime(Identificador):
+def EditParAnime(Identificador):
     i = 0
     for anime in BaseDeDatosAnime['anime']:
         if anime['id'] == Identificador:
@@ -83,7 +72,7 @@ def EdiParAnime(Identificador):
         i+=1
 #METODO DELETE (eliminar anime)
 @app.route("/anime/<int:Identificador>", methods=['DELETE'])
-def DeleteProduct(Identificador):
+def DeleteAnime(Identificador):
     for anime in BaseDeDatosAnime['anime']:
         if anime['id'] == Identificador:
             BaseDeDatosAnime['anime'].remove(anime)
