@@ -1,0 +1,104 @@
+{
+    "anime": [
+        {
+            "id": 1,
+            "titulo": "Dragon Ball",
+            "puntaje": 3,
+            "tipo": "serie",
+            "season": "winter",
+            "generos": [
+                "accion"
+            ]
+        },
+        {
+            "id": 2,
+            "titulo": "Dragon Ball",
+            "puntaje": 3,
+            "tipo": "serie",
+            "season": "winter",
+            "generos": [
+                "accion"
+            ]
+        },
+        {
+            "id": 3,
+            "titulo": "Dragon Ball",
+            "puntaje": 3,
+            "tipo": "serie",
+            "season": "winter",
+            "generos": [
+                "accion"
+            ]
+        },
+        {
+            "id": 4,
+            "titulo": "Dragon",
+            "puntaje": 12,
+            "tipo": "serie",
+            "season": "spring",
+            "generos": [
+                "Romance"
+            ]
+        },
+        {
+            "id": 5,
+            "titulo": "Las aventuras del peque\u00f1ito goku",
+            "puntaje": 3,
+            "tipo": "serie",
+            "season": "winter",
+            "generos": [
+                "accion"
+            ]
+        },
+        {
+            "id": 6,
+            "titulo": "Dragon Ball",
+            "puntaje": 3,
+            "tipo": "serie",
+            "season": "winter",
+            "generos": [
+                "accion"
+            ]
+        },
+        {
+            "id": 7,
+            "titulo": "Dragon Ball",
+            "puntaje": 3,
+            "tipo": "serie",
+            "season": "winter",
+            "generos": [
+                "accion"
+            ]
+        },
+        {
+            "id": 8,
+            "titulo": "Dragon Ball",
+            "puntaje": 3,
+            "tipo": "serie",
+            "season": "winter",
+            "generos": [
+                "accion"
+            ]
+        },
+        {
+            "id": 9,
+            "titulo": "Dragon Ballo",
+            "puntaje": 5,
+            "tipo": "serie",
+            "season": "winter",
+            "generos": [
+                "Accion"
+            ]
+        },
+        {
+            "id": 10,
+            "titulo": "Las aventuras del peque\u00f1ito goku",
+            "puntaje": 5,
+            "tipo": "serie",
+            "season": "winter",
+            "generos": [
+                "Accion"
+            ]
+        }
+    ]
+}
