@@ -3,7 +3,7 @@
         {
             "id": 1,
             "titulo": "Dragon Ball",
-            "puntaje": 3,
+            "puntaje": 9,
             "tipo": "serie",
             "season": "winter",
             "generos": [
@@ -12,90 +12,90 @@
         },
         {
             "id": 2,
-            "titulo": "Dragon Ball",
-            "puntaje": 3,
+            "titulo": "Baki",
+            "puntaje": 10,
             "tipo": "serie",
-            "season": "winter",
+            "season": "son of ogre",
             "generos": [
-                "accion"
+                "accion", "comedia"
             ]
         },
         {
             "id": 3,
-            "titulo": "Dragon Ball",
-            "puntaje": 3,
+            "titulo": "tkyo ghoul",
+            "puntaje": 6,
             "tipo": "serie",
-            "season": "winter",
+            "season": "2",
             "generos": [
-                "accion"
+                "accion","gore"
             ]
         },
         {
             "id": 4,
-            "titulo": "Dragon",
-            "puntaje": 12,
+            "titulo": "One Puch Man",
+            "puntaje": 10,
             "tipo": "serie",
-            "season": "spring",
+            "season": "1",
             "generos": [
-                "Romance"
+                "accion", "comedia", "pelea"
             ]
         },
         {
             "id": 5,
-            "titulo": "Las aventuras del peque\u00f1ito goku",
-            "puntaje": 3,
+            "titulo": "One Piece",
+            "puntaje": 8,
             "tipo": "serie",
-            "season": "winter",
+            "season": "wano",
             "generos": [
-                "accion"
+                "accion","aventura"
             ]
         },
         {
             "id": 6,
-            "titulo": "Dragon Ball",
-            "puntaje": 3,
+            "titulo": "Jutsu Kaisen",
+            "puntaje": 9,
             "tipo": "serie",
-            "season": "winter",
+            "season": "Pasado de gojo",
             "generos": [
                 "accion"
             ]
         },
         {
             "id": 7,
-            "titulo": "Dragon Ball",
+            "titulo": "Kimetsu no Yaiba",
             "puntaje": 3,
             "tipo": "serie",
-            "season": "winter",
+            "season": "El tren infinito",
             "generos": [
-                "accion"
+                "accion", "aventura"
             ]
         },
         {
             "id": 8,
-            "titulo": "Dragon Ball",
+            "titulo": "Spy x family",
             "puntaje": 3,
             "tipo": "serie",
-            "season": "winter",
+            "season": "2",
             "generos": [
-                "accion"
+                "aventura"
             ]
         },
         {
             "id": 9,
-            "titulo": "Dragon Ballo",
+            "titulo": "Inuyasha",
             "puntaje": 5,
             "tipo": "serie",
-            "season": "winter",
+            "season": "1",
             "generos": [
-                "Accion"
+                "aventura"
             ]
         },
         {
             "id": 10,
-            "titulo": "Las aventuras del peque\u00f1ito goku",
+            "titulo": "Caballeros del zodiaco",
             "puntaje": 5,
             "tipo": "serie",
-            "season": "winter",
+            "season": "Las 12 casas",
             "generos": [
                 "Accion"
             ]
